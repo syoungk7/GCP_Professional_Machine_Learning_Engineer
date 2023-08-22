@@ -4,13 +4,13 @@ https://www.cloudskillsboost.google/journeys/17
 
 1. A Tour of Google Cloud Hands-on Labs
 
-2. Google Cloud Big Data and Machine Learning Fundamentals
+2. Google Cloud Big Data and Machine Learning Fundamentals <br>
 https://www.cloudskillsboost.google/course_templates/3
 
 3. How Google Does Machine Learning
 
-4. Launching into Machine Learning
-: Labs
+4. Launching into Machine Learning<br>
+: Labs<br>
 - courses/machine_learning/deepdive2/launching_into_ml/labs/improve_data_quality.ipynb
 
 5. TensorFlow on Google Cloud
