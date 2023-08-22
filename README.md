@@ -7,9 +7,10 @@ https://www.cloudskillsboost.google/journeys/17
 2. Google Cloud Big Data and Machine Learning Fundamentals <br>
 - https://www.cloudskillsboost.google/course_templates/3
 
-3. How Google Does Machine Learning
+3. How Google Does Machine Learning <br>
+- https://www.cloudskillsboost.google/course_templates/10
 
-4. Launching into Machine Learning<br>
+5. Launching into Machine Learning<br>
 : Labs<br>
 - courses/machine_learning/deepdive2/launching_into_ml/labs/improve_data_quality.ipynb
 
